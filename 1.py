@@ -1,0 +1,8 @@
+print("UNIVERSITAS KOMPUTER INDONESIA".center(80))
+print("JL Dipati Ukur 112-114, Bandung".center(80))
+print("_"*80)
+print("".ljust(25),"Nama     : Omar Bakri")
+print("".ljust(25),"NIM      : 102050")
+print("".ljust(25),"Jurusan  : Teknik Komputer")
+print("".ljust(25),"Fakultas : Teknik dan Ilmu Komputer")
+print("_"*80)
